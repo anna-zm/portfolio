@@ -1,14 +1,14 @@
 # portfolio
-Znajdziesz tu przypadki testowe, raporty z błędów na bazie przykładowych aplikacji oraz inne materiały potwierdzające moją wiedzę i umiejętności. Stawiam na dokładność i dbałość o jakość produktu.
+This portfolio includes test cases, bug reports based on sample applications, and additional materials that reflect my knowledge and skills. I value precision and take pride in ensuring high product quality.
 
-*** O MNIE ***
+*** ABOUT ME ***
 
-Zdecydowałam się na przebranżowienie i rozwój w branży IT, ponieważ fascynuje mnie proces tworzenia i doskonalenia oprogramowania. W testowaniu szczególnie cenię możliwość łączenia analitycznego myślenia z dbałością o detale oraz realny wpływ na jakość produktu, który trafia do użytkowników.
+I decided to transition into the IT industry because I’m fascinated by the process of creating and improving software. What I particularly value in software testing is the ability to combine analytical thinking with attention to detail, and to have a real impact on the quality of the product delivered to users.
 
-Ukończyłam studia podyplomowe na kierunku Tester oprogramowania, posiadam certyfikat ISTQB Certified Tester – Foundation Level i stale poszerzam swoją wiedzę poprzez dodatkowe kursy online oraz praktyczne projekty. Chciałabym rozpocząć swoją karierę od testowania manualnego, stopniowo rozwijając się również w kierunku testów automatycznych.
+I have completed postgraduate studies in Software Testing, hold the ISTQB Certified Tester – Foundation Level certificate, and I continuously expand my knowledge through online courses and hands-on projects. I’m looking to begin my career with manual testing and gradually develop my skills in test automation as well.
 
-W dotychczasowej pracy zawodowej miałam możliwość uczestniczyć w testach eksploracyjnych oraz testach UAT, co pozwoliło mi poznać proces weryfikacji i akceptacji oprogramowania z perspektywy użytkownika końcowego. Dzięki temu rozumiem, jak istotne jest dbanie o jakość i użyteczność systemów w codziennym funkcjonowaniu organizacji.
+In my previous professional roles, I had the opportunity to participate in exploratory testing and UAT (User Acceptance Testing), which helped me understand the verification and acceptance process from an end-user perspective. This experience has shown me how important software quality and usability are in the daily operations of an organization.
 
-Potrafię pracować samodzielnie i dobrze organizować swoją pracę, a jednocześnie świetnie odnajduję się we współpracy zespołowej – uważam, że wymiana doświadczeń i perspektyw jest kluczem do skutecznego rozwiązywania problemów.
+I am well-organized and able to work independently, but I also thrive in collaborative team environments. I believe that sharing knowledge and perspectives is key to solving problems effectively.
 
-Moim celem jest nie tylko rozwój kompetencji technicznych, ale także zdobywanie wartościowych doświadczeń projektowych, które pozwolą wspierać zespoły w dostarczaniu oprogramowania wysokiej jakości.
+My goal is not only to develop my technical skills but also to gain valuable project experience that will allow me to support teams in delivering high-quality software.
